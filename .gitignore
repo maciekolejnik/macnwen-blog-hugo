@@ -1,0 +1,9 @@
+.DS_Store
+
+/public
+/node_modules
+/resources
+
+.gitmodules
+
+.hugo_build.lock
